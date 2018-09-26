@@ -4,7 +4,33 @@ body {
     font-family: 'Courier New', Courier, monospace;
 }
 
+<<<<<<< HEAD
 h1 {
     color: red;
     text-align: center;
 }
+=======
+img {
+    max-width: 50%;
+    height: auto;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    
+}
+
+h1 {
+    text-decoration: underline;
+}
+
+p {
+    font-family: arial;
+    color: red;
+    
+}
+
+
+
+
+
+>>>>>>> kim
